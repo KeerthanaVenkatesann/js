@@ -1,0 +1,55 @@
+nav {
+  height: 90px !important;
+
+  
+}
+body {
+  font-family: "Caveat", cursive !important;
+}
+
+.tab {
+  background-image: linear-gradient(
+    to right,
+    #003973 0%,
+    #e5e5be 51%,
+    #003973 100%
+  );
+}
+
+.btn-grad {
+  background-image: linear-gradient(to right, #003973 0%, #E5E5BE  51%, #003973  100%);
+ 
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+ 
+  display: block;
+}
+
+.btn-grad:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+.btn-grad1 {
+  background-image: linear-gradient(to right, #003973 0%, #E5E5BE  51%, #003973  100%);
+ 
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+ 
+}
+
+.btn-grad1:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+         

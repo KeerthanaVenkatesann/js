@@ -1,11 +1,10 @@
-function Teachersregister(){
-   window.location.href="teachers.html"
+function Teachersregister() {
+  window.location.href = "/Teacher/teachers.html";
 }
 
-function Studentregister(){
-    window.location.href="student.html"
+function Studentregister() {
+  window.location.href = "/Student/student.html";
 }
-function workersregister(){
-
-    window.location.href="workerstab.html"
+function workersregister() {
+  window.location.href = "/Workers/workersform.html";
 }
